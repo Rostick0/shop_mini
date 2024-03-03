@@ -111,7 +111,7 @@ class ProductController extends ApiController
      *      @OA\Parameter(
      *          name="extends",
      *          in="query",
-     *          example="parent,children",
+     *          example="images,user,category",
      *          @OA\Schema(
      *              type="string",
      *          )
