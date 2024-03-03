@@ -1326,7 +1326,7 @@
                         "schema": {
                             "type": "string"
                         },
-                        "example": "parent,children"
+                        "example": "images,user,category"
                     }
                 ],
                 "responses": {
